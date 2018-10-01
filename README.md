@@ -10,7 +10,7 @@
 |   |           | [6. Enums and Pattern Matching](https://doc.rust-lang.org/book/second-edition/ch06-00-enums.html) | @IU | [link](https://drive.google.com/drive/folders/1s4iX4XXh_pFBvHpR6w2KXHq5uz04NgeO?usp=sharing)|
 | 4 | 2018/9/3 | [7. Modules](https://doc.rust-lang.org/book/second-edition/ch07-00-modules.html) | @dieter | [link](https://dieterplex.gitlab.io/rust-studygroup/ch7.html)|
 |   |          | [8. Common Collections](https://doc.rust-lang.org/book/second-edition/ch08-00-common-collections.html) | @weihanglo | [link](https://weihanglo.tw/slides/rust-collections)|
-| 5 | [時間調查](https://doodle.com/poll/g8um6w5iguy3cnid) | [9. Error Handling](https://doc.rust-lang.org/book/second-edition/ch09-00-error-handling.html) | @kais ||
+| 5 | 2018/10/8 | [9. Error Handling](https://doc.rust-lang.org/book/second-edition/ch09-00-error-handling.html) | @kais ||
 |   |          | [10. Generic Types, Traits, and Lifetimes](https://doc.rust-lang.org/book/second-edition/ch10-00-generics.html) | @tigercosmos ||
 | 6 |          | [11. Testing](https://doc.rust-lang.org/book/second-edition/ch11-00-testing.html) | @kais ||
 |   |          | [12. An I/O Project: Building a Command Line Program](https://doc.rust-lang.org/book/second-edition/ch12-00-an-io-project.html) | @tigercosmos ||

@@ -12,7 +12,7 @@
 |   |          | [8. Common Collections](https://doc.rust-lang.org/book/second-edition/ch08-00-common-collections.html) | @weihanglo | [link](https://weihanglo.tw/slides/rust-collections)|
 | 5 | 2018/10/8 | [9. Error Handling](https://doc.rust-lang.org/book/second-edition/ch09-00-error-handling.html) | @kais | [link](https://hackmd.io/p/B1lPZJ4Pqm#/) |
 |   |          | [10. Generic Types, Traits, and Lifetimes](https://doc.rust-lang.org/book/second-edition/ch10-00-generics.html) | @tigercosmos | [link](https://hackmd.io/p/Hk9fOfvqm#/) |
-| 6 |          | [11. Testing](https://doc.rust-lang.org/book/second-edition/ch11-00-testing.html) | @kais ||
+| 6 | 2018/11/12 | [11. Testing](https://doc.rust-lang.org/book/second-edition/ch11-00-testing.html) | @kais | [link](https://hackmd.io/p/B186LUraX#/)|
 |   |          | [12. An I/O Project: Building a Command Line Program](https://doc.rust-lang.org/book/second-edition/ch12-00-an-io-project.html) | @tigercosmos ||
 | 7 |          | [13. Functional Language Features: Iterators and Closures](https://doc.rust-lang.org/book/second-edition/ch13-00-functional-features.html) | @球魚 ||
 |   |          | [14. More about Cargo and Crates.io](https://doc.rust-lang.org/book/second-edition/ch14-00-more-about-cargo.html) | @dieter ||

@@ -14,9 +14,9 @@
 |   |          | [10. Generic Types, Traits, and Lifetimes](https://doc.rust-lang.org/book/second-edition/ch10-00-generics.html) | @tigercosmos | [link](https://hackmd.io/p/Hk9fOfvqm#/) |
 | 6 | 2018/11/12 | [11. Testing](https://doc.rust-lang.org/book/second-edition/ch11-00-testing.html) | @kais | [link](https://hackmd.io/p/B186LUraX#/)|
 |   |          | [12. An I/O Project: Building a Command Line Program](https://doc.rust-lang.org/book/second-edition/ch12-00-an-io-project.html) | @tigercosmos | [link](https://hackmd.io/p/r18I6LrTQ#/) |
-| 7 |          | [13. Functional Language Features: Iterators and Closures](https://doc.rust-lang.org/book/second-edition/ch13-00-functional-features.html) | @球魚 ||
+| 7 | 2018/12/10 | [13. Functional Language Features: Iterators and Closures](https://doc.rust-lang.org/book/second-edition/ch13-00-functional-features.html) | @球魚 |[link](https://slides.com/lili668668/rust-12#/)|
 |   |          | [14. More about Cargo and Crates.io](https://doc.rust-lang.org/book/second-edition/ch14-00-more-about-cargo.html) | @dieter ||
-| 8 |          | [15. Smart Pointers](https://doc.rust-lang.org/book/second-edition/ch15-00-smart-pointers.html) | @weihang ||
+| 8 | 2019/01/21 | [15. Smart Pointers](https://doc.rust-lang.org/book/second-edition/ch15-00-smart-pointers.html) | @weihang |[link](https://weihanglo.tw/slides/rust-smart-pointers.html)|
 |   |          | [16. Fearless Concurrency](https://doc.rust-lang.org/book/second-edition/ch16-00-concurrency.html) | @tigercosmos ||
 | 9 |          | [17. Is Rust an Object-Oriented Programming Language?](https://doc.rust-lang.org/book/second-edition/ch17-00-oop.html) | @球魚 ||
 |   |          | [18. Patterns Match the Structure of Values](https://doc.rust-lang.org/book/second-edition/ch18-00-patterns.html) | @sharre ||

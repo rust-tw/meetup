@@ -22,7 +22,7 @@
 | 2018/11/12 | [11. Testing](https://doc.rust-lang.org/book/second-edition/ch11-00-testing.html) | @kais | [link](https://hackmd.io/p/B186LUraX#/)|
 |          | [12. An I/O Project: Building a Command Line Program](https://doc.rust-lang.org/book/second-edition/ch12-00-an-io-project.html) | @tigercosmos | [link](https://hackmd.io/p/r18I6LrTQ#/) |
 | 2018/12/10 | [13. Functional Language Features: Iterators and Closures](https://doc.rust-lang.org/book/second-edition/ch13-00-functional-features.html) | @球魚 |[link](https://slides.com/lili668668/rust-12#/)|
-|          | [14. More about Cargo and Crates.io](https://doc.rust-lang.org/book/second-edition/ch14-00-more-about-cargo.html) | @dieter ||
+|          | [14. More about Cargo and Crates.io](https://doc.rust-lang.org/book/second-edition/ch14-00-more-about-cargo.html) | @dieter | [link](https://dieterplex.gitlab.io/rust-studygroup/ch14.html) |
 
 ### 2019
 

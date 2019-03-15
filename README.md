@@ -29,8 +29,8 @@
 | Date | Chapter | Speaker | Slides |
 |:----:|:------- |:------- |:------:|
 | 2019/01/21 | [15. Smart Pointers](https://doc.rust-lang.org/book/second-edition/ch15-00-smart-pointers.html) | @weihanglo |[link](https://weihanglo.tw/slides/rust-smart-pointers.html)|
-|          | [16. Fearless Concurrency](https://doc.rust-lang.org/book/second-edition/ch16-00-concurrency.html) | @weihanglo |[link](https://weihanglo.tw/slides/rust-concurrency.html)|
-|          | [17. Is Rust an Object-Oriented Programming Language?](https://doc.rust-lang.org/book/second-edition/ch17-00-oop.html) | @球魚 |[link](https://slides.com/lili668668/oop-and-rust)|
+| 2019/02/17 | [16. Fearless Concurrency](https://doc.rust-lang.org/book/second-edition/ch16-00-concurrency.html) | @weihanglo |[link](https://weihanglo.tw/slides/rust-concurrency.html)|
+| 2019/03/30 | [17. Is Rust an Object-Oriented Programming Language?](https://doc.rust-lang.org/book/second-edition/ch17-00-oop.html) | @球魚 |[link](https://slides.com/lili668668/oop-and-rust)|
 |          | [18. Patterns Match the Structure of Values](https://doc.rust-lang.org/book/second-edition/ch18-00-patterns.html) | @sharre ||
 |          | [19. Advanced Features](https://doc.rust-lang.org/book/second-edition/ch19-00-advanced-features.html) | @weihanglo ||
 |          | [20. Final Project: Building a Multithreaded Web Server](https://doc.rust-lang.org/book/second-edition/ch20-00-final-project-a-web-server.html) | @sharre ||

@@ -1,5 +1,16 @@
 # Meetups of Rust Taiwan Community
 
+This is the Rust Taiwan Community. We hold meetups every month.
+
+## Information
+
+Join the Facebook Group or Telegram channel to follow the latest events:
+
+- [Facebook Group](https://www.facebook.com/groups/rust.lang.tw/)
+- [Telegram Channel](https://t.me/rust_tw)
+
+We hold the meetups at the place, [摩茲工寮 Mozilla Community Space Taipei](https://www.facebook.com/MozSpaceTPE/), in Taipei, Taiwan.
+
 ## Table of Contents
 
 - [2018](#2018)

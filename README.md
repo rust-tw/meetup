@@ -44,4 +44,4 @@ We hold the meetups at the place, [摩茲工寮 Mozilla Community Space Taipei](
 | 2019/03/30 | [17. Is Rust an Object-Oriented Programming Language?](https://doc.rust-lang.org/book/ch17-00-oop.html) | @球魚 |[link](https://slides.com/lili668668/oop-and-rust)|
 | 2019/03/30 | [18. Patterns Match the Structure of Values](https://doc.rust-lang.org/book/ch18-00-patterns.html) | @dieter |[link](https://dieterplex.gitlab.io/rust-studygroup/ch18.html)|
 | 2019/04/20 | [19. Advanced Features](https://doc.rust-lang.org/book/ch19-00-advanced-features.html) | @rnic |[link](https://github.com/rniczh/slides/blob/gh-pages/Advenced-features/advanced_features.pdf)|
-|          | [20. Final Project: Building a Multithreaded Web Server](https://doc.rust-lang.org/book/ch20-00-final-project-a-web-server.html) | @球魚 ||
+|          | [20. Final Project: Building a Multithreaded Web Server](https://doc.rust-lang.org/book/ch20-00-final-project-a-web-server.html) | @球魚 |[link](https://slides.com/lili668668/rust-20#/)|

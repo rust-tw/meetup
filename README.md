@@ -13,8 +13,23 @@ We hold the meetups at the place, [摩茲工寮 Mozilla Community Space Taipei](
 
 ## Table of Contents
 
-- [2018](#2018)
 - [2019](#2019)
+- [2018](#2018)
+
+
+### 2019
+
+| Date | Chapter/Topic | Speaker | Slides |
+|:----:|:------- |:------- |:------:|
+| 2019/01/21 | [15. Smart Pointers](https://doc.rust-lang.org/book/ch15-00-smart-pointers.html) | @weihanglo |[link](https://weihanglo.tw/slides/rust-smart-pointers.html)|
+| 2019/02/17 | [16. Fearless Concurrency](https://doc.rust-lang.org/book/ch16-00-concurrency.html) | @weihanglo |[link](https://weihanglo.tw/slides/rust-concurrency.html)|
+| 2019/03/30 | [17. Is Rust an Object-Oriented Programming Language?](https://doc.rust-lang.org/book/ch17-00-oop.html) | @球魚 |[link](https://slides.com/lili668668/oop-and-rust)|
+|            | [18. Patterns Match the Structure of Values](https://doc.rust-lang.org/book/ch18-00-patterns.html) | @dieter |[link](https://dieterplex.gitlab.io/rust-studygroup/ch18.html)|
+| 2019/04/20 | [19. Advanced Features](https://doc.rust-lang.org/book/ch19-00-advanced-features.html) | @rnic |[link](https://github.com/rniczh/slides/blob/gh-pages/Advenced-features/advanced_features.pdf)|
+|          | [20. Final Project: Building a Multithreaded Web Server](https://doc.rust-lang.org/book/ch20-00-final-project-a-web-server.html) | @球魚 |[link](https://slides.com/lili668668/rust-20#/)|
+| 2019/05/25 | RustCon Asia 2019 見聞錄 (Stories Sharing) | @weihanglo |[link](https://weihanglo.tw/slides/rustcon-asia-2019#1)|
+|            | Understanding Lifetime | @rnic |[link](https://github.com/rniczh/slides/blob/gh-pages/Lifetimes-intro/lifetimes-intro.pdf)|
+| 2019/06/29 | Rust Website Translation to ZH-TW |  |[link](https://pontoon.rust-lang.org/zh-TW/)|
 
 ### 2018
 
@@ -34,16 +49,3 @@ We hold the meetups at the place, [摩茲工寮 Mozilla Community Space Taipei](
 |          | [12. An I/O Project: Building a Command Line Program](https://doc.rust-lang.org/book/ch12-00-an-io-project.html) | @tigercosmos | [link](https://hackmd.io/p/r18I6LrTQ#/) |
 | 2018/12/10 | [13. Functional Language Features: Iterators and Closures](https://doc.rust-lang.org/book/ch13-00-functional-features.html) | @球魚 |[link](https://slides.com/lili668668/rust-12#/)|
 |          | [14. More about Cargo and Crates.io](https://doc.rust-lang.org/book/ch14-00-more-about-cargo.html) | @dieter | [link](https://dieterplex.gitlab.io/rust-studygroup/ch14.html) |
-
-### 2019
-
-| Date | Chapter/Topic | Speaker | Slides |
-|:----:|:------- |:------- |:------:|
-| 2019/01/21 | [15. Smart Pointers](https://doc.rust-lang.org/book/ch15-00-smart-pointers.html) | @weihanglo |[link](https://weihanglo.tw/slides/rust-smart-pointers.html)|
-| 2019/02/17 | [16. Fearless Concurrency](https://doc.rust-lang.org/book/ch16-00-concurrency.html) | @weihanglo |[link](https://weihanglo.tw/slides/rust-concurrency.html)|
-| 2019/03/30 | [17. Is Rust an Object-Oriented Programming Language?](https://doc.rust-lang.org/book/ch17-00-oop.html) | @球魚 |[link](https://slides.com/lili668668/oop-and-rust)|
-|            | [18. Patterns Match the Structure of Values](https://doc.rust-lang.org/book/ch18-00-patterns.html) | @dieter |[link](https://dieterplex.gitlab.io/rust-studygroup/ch18.html)|
-| 2019/04/20 | [19. Advanced Features](https://doc.rust-lang.org/book/ch19-00-advanced-features.html) | @rnic |[link](https://github.com/rniczh/slides/blob/gh-pages/Advenced-features/advanced_features.pdf)|
-|          | [20. Final Project: Building a Multithreaded Web Server](https://doc.rust-lang.org/book/ch20-00-final-project-a-web-server.html) | @球魚 |[link](https://slides.com/lili668668/rust-20#/)|
-| 2019/05/25 | RustCon Asia 2019 見聞錄 (Stories Sharing) | @weihanglo |[link](https://weihanglo.tw/slides/rustcon-asia-2019#1)|
-|            | Understanding Lifetime | @rnic |[link](https://github.com/rniczh/slides/blob/gh-pages/Lifetimes-intro/lifetimes-intro.pdf)|

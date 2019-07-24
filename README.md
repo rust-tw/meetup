@@ -30,6 +30,7 @@ We hold the meetups at the place, [摩茲工寮 Mozilla Community Space Taipei](
 | 2019/05/25 | RustCon Asia 2019 見聞錄 (Stories Sharing) | @weihanglo |[link](https://weihanglo.tw/slides/rustcon-asia-2019#1)|
 |            | Understanding Lifetime | @rnic |[link](https://github.com/rniczh/slides/blob/gh-pages/Lifetimes-intro/lifetimes-intro.pdf)|
 | 2019/06/29 | Rust Website Translation to ZH-TW |  |[link](https://pontoon.rust-lang.org/zh-TW/)|
+| 2019/07/20 | Preparing for COSCUP 2019 |  |[link](https://coscup.org/2019/en/)|
 
 ### 2018
 

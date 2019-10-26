@@ -33,6 +33,7 @@ We hold the meetups at the place, [摩茲工寮 Mozilla Community Space Taipei](
 | 2019/07/20 | Preparing for COSCUP 2019 |  |[link](https://coscup.org/2019/en/)|
 | 2019/08/17 | COSCUP 2019 |  |[link](https://coscup.org/2019/en/)|
 | 2019/09/28 | Useful Rust std skills | @KK | [link](https://www.slideshare.net/kkthegamer/rust-std) |
+| 2019/10/26 | Foreign Function Interface in Rust | @wusyong | [link](https://hackmd.io/@mRP87MlTRvOLHDMXBXHf0Q/ryCMwXvYH#/) |
 
 ### 2018
 

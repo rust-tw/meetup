@@ -6,6 +6,7 @@ This is the Rust Taiwan Community. We hold meetups every month.
 
 Join the Facebook Group or Telegram channel to follow the latest events:
 
+- [2020 meetup events](https://2020-rust-tw.kktix.cc)
 - [Facebook Group](https://www.facebook.com/groups/rust.lang.tw/)
 - [Telegram Channel](https://t.me/rust_tw)
 

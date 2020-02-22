@@ -23,7 +23,7 @@ We hold the meetups at the place, [摩茲工寮 Mozilla Community Space Taipei](
 | Date | Chapter/Topic | Speaker | Slides |
 |:----:|:--------------|:-------:|:------:|
 | 2020/01/18 | 志工招募 | 球魚 | [link](https://hackmd.io/@ballfish/2020-rust-tw) |
-| 2020/02/22 | Rust 基本教學 / aync,await 分享 | 球魚/Way New | [link1](https://hackmd.io/@ballfish/BkYVxV7Z8)/[link2]() |
+| 2020/02/22 | Rust 基本教學 / aync,await 分享 | 球魚/Way New | [link1](https://hackmd.io/@ballfish/BkYVxV7Z8)/[link2](https://www.slideshare.net/YuWeiWu13/async-in-rust) |
 | 2020/03/21 | Rust 經驗分享 | Jack Huang | |
 | 2020/04/25 | [Yew](https://github.com/yewstack/yew) 套件分享 | Justin Starry | |
 | 2020/05/?? | Lifetime、Ownership、Borrow、NLL、deref、unsafe | George | |

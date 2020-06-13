@@ -27,7 +27,7 @@ We hold the meetups at the place, [摩茲工寮 Mozilla Community Space Taipei](
 | 2020/03/21 | Rust 經驗分享 | Jack Huang | [link](https://youtu.be/xQUK6gqUAfc) |
 | 2020/04/25 | Lifetime、Ownership、Borrow、NLL | 球魚 | [link1](https://hackmd.io/@ballfish/rust-book-2020) [link2](https://youtu.be/WAK2Q8jz_fg) |
 | 2020/05/30 | [Yew](https://github.com/yewstack/yew) 套件分享 | Justin Starry | [link1](https://docs.google.com/presentation/d/1ehRzmdpNsIXnnQX_-2s7Ym1XeWJCQaQKmYKcdU47lu8/edit?usp=sharing) [link2](https://youtu.be/DU2vQHy6sxU) |
-| 2020/06/13 | Rust 與 Blockchain 應用的經驗分享 | Antonio Yang | |
+| 2020/06/13 | Rust 與 Blockchain 應用的經驗分享 | Antonio Yang | [link1](https://docs.google.com/presentation/d/1T94DjivL-MleTwtxpBsuoHx2rWDq5UncS8Edl27k6Q8/edit?usp=sharing) [link2](https://youtu.be/3zOvbBy4Ktk) |
 
 ### 2019
 

@@ -14,38 +14,43 @@ We hold the meetups at the place, [摩茲工寮 Mozilla Community Space Taipei](
 
 ## Table of Contents
 
+- [2023](#2023)
 - [2020](#2020)
 - [2019](#2019)
 - [2018](#2018)
 
+### 2019
+|    Date    | Chapter/Topic                                |    Speaker   |                                                                                                                  Slides                                                                                                                  |
+|:----------:|:---------------------------------------------|:------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 2023/10/03 | Is Rust the language of AGI?                 | Michael Yuan | [link1](https://www.youtube.com/watch?v=he2hcqy5czM) [link2](https://github.com/second-state/WasmEdge-WASINN-examples) [link3](https://blog.stackademic.com/fast-and-portable-llama2-inference-on-the-heterogeneous-edge-a62508e82359)   |
+| 2023/10/03 | Rust on web3 applications and security audit |    李婷婷    |                                                                                           [link1](https://www.youtube.com/watch?v=IPTQP0V_F6A)                                                                                           |
 
-## 2020
-| Date | Chapter/Topic | Speaker | Slides |
-|:----:|:--------------|:-------:|:------:|
-| 2020/01/18 | 志工招募 | 球魚 | [link](https://hackmd.io/@ballfish/2020-rust-tw) |
-| 2020/02/22 | Rust 基本教學 / aync,await 分享 | 球魚/Way New | [link1](https://hackmd.io/@ballfish/BkYVxV7Z8)/[link2](https://www.slideshare.net/YuWeiWu13/async-in-rust) |
-| 2020/03/21 | Rust 經驗分享 | Jack Huang | [link](https://youtu.be/xQUK6gqUAfc) |
-| 2020/04/25 | Lifetime、Ownership、Borrow、NLL | 球魚 | [link1](https://hackmd.io/@ballfish/rust-book-2020) [link2](https://youtu.be/WAK2Q8jz_fg) |
+### 2020
+|    Date    | Chapter/Topic                                   |    Speaker    |                                                                        Slides                                                                       |
+|:----------:|:------------------------------------------------|:-------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 2020/01/18 | 志工招募                                        |      球魚     |                                                   [link](https://hackmd.io/@ballfish/2020-rust-tw)                                                  |
+| 2020/02/22 | Rust 基本教學 / aync,await 分享                 |  球魚/Way New |                      [link1](https://hackmd.io/@ballfish/BkYVxV7Z8)/[link2](https://www.slideshare.net/YuWeiWu13/async-in-rust)                     |
+| 2020/03/21 | Rust 經驗分享                                   |   Jack Huang  |                                                         [link](https://youtu.be/xQUK6gqUAfc)                                                        |
+| 2020/04/25 | Lifetime、Ownership、Borrow、NLL                |      球魚     |                              [link1](https://hackmd.io/@ballfish/rust-book-2020) [link2](https://youtu.be/WAK2Q8jz_fg)                              |
 | 2020/05/30 | [Yew](https://github.com/yewstack/yew) 套件分享 | Justin Starry | [link1](https://docs.google.com/presentation/d/1ehRzmdpNsIXnnQX_-2s7Ym1XeWJCQaQKmYKcdU47lu8/edit?usp=sharing) [link2](https://youtu.be/DU2vQHy6sxU) |
-| 2020/06/13 | Rust 與 Blockchain 應用的經驗分享 | Antonio Yang | [link1](https://docs.google.com/presentation/d/1T94DjivL-MleTwtxpBsuoHx2rWDq5UncS8Edl27k6Q8/edit?usp=sharing) [link2](https://youtu.be/3zOvbBy4Ktk) |
+| 2020/06/13 | Rust 與 Blockchain 應用的經驗分享               |  Antonio Yang | [link1](https://docs.google.com/presentation/d/1T94DjivL-MleTwtxpBsuoHx2rWDq5UncS8Edl27k6Q8/edit?usp=sharing) [link2](https://youtu.be/3zOvbBy4Ktk) |
 
 ### 2019
-
-| Date | Chapter/Topic | Speaker | Slides |
-|:----:|:------- |:------- |:------:|
-| 2019/01/21 | [15. Smart Pointers](https://doc.rust-lang.org/book/ch15-00-smart-pointers.html) | @weihanglo |[link](https://weihanglo.tw/slides/rust-smart-pointers.html)|
-| 2019/02/17 | [16. Fearless Concurrency](https://doc.rust-lang.org/book/ch16-00-concurrency.html) | @weihanglo |[link](https://weihanglo.tw/slides/rust-concurrency.html)|
-| 2019/03/30 | [17. Is Rust an Object-Oriented Programming Language?](https://doc.rust-lang.org/book/ch17-00-oop.html) | @球魚 |[link](https://slides.com/lili668668/oop-and-rust)|
-|            | [18. Patterns Match the Structure of Values](https://doc.rust-lang.org/book/ch18-00-patterns.html) | @dieter |[link](https://dieterplex.gitlab.io/rust-studygroup/ch18.html)|
-| 2019/04/20 | [19. Advanced Features](https://doc.rust-lang.org/book/ch19-00-advanced-features.html) | @rnic |[link](https://github.com/rniczh/slides/blob/gh-pages/Advenced-features/advanced_features.pdf)|
-|          | [20. Final Project: Building a Multithreaded Web Server](https://doc.rust-lang.org/book/ch20-00-final-project-a-web-server.html) | @球魚 |[link](https://slides.com/lili668668/rust-20#/)|
-| 2019/05/25 | RustCon Asia 2019 見聞錄 (Stories Sharing) | @weihanglo |[link](https://weihanglo.tw/slides/rustcon-asia-2019#1)|
-|            | Understanding Lifetime | @rnic |[link](https://github.com/rniczh/slides/blob/gh-pages/Lifetimes-intro/lifetimes-intro.pdf)|
-| 2019/06/29 | Rust Website Translation to ZH-TW |  |[link](https://pontoon.rust-lang.org/zh-TW/)|
-| 2019/07/20 | Preparing for COSCUP 2019 |  |[link](https://coscup.org/2019/en/)|
-| 2019/08/17 | COSCUP 2019 |  |[link](https://coscup.org/2019/en/)|
-| 2019/09/28 | Useful Rust std skills | @KK | [link](https://www.slideshare.net/kkthegamer/rust-std) |
-| 2019/10/26 | Foreign Function Interface in Rust | @wusyong | [link](https://hackmd.io/@mRP87MlTRvOLHDMXBXHf0Q/ryCMwXvYH#/) |
+| Date       | Chapter/Topic                                                                                                                    | Speaker    | Slides                                                                                         |
+| :----:     | :-------                                                                                                                         | :-------   | :------:                                                                                       |
+| 2019/01/21 | [15. Smart Pointers](https://doc.rust-lang.org/book/ch15-00-smart-pointers.html)                                                 | @weihanglo | [link](https://weihanglo.tw/slides/rust-smart-pointers.html)                                   |
+| 2019/02/17 | [16. Fearless Concurrency](https://doc.rust-lang.org/book/ch16-00-concurrency.html)                                              | @weihanglo | [link](https://weihanglo.tw/slides/rust-concurrency.html)                                      |
+| 2019/03/30 | [17. Is Rust an Object-Oriented Programming Language?](https://doc.rust-lang.org/book/ch17-00-oop.html)                          | @球魚      | [link](https://slides.com/lili668668/oop-and-rust)                                             |
+|            | [18. Patterns Match the Structure of Values](https://doc.rust-lang.org/book/ch18-00-patterns.html)                               | @dieter    | [link](https://dieterplex.gitlab.io/rust-studygroup/ch18.html)                                 |
+| 2019/04/20 | [19. Advanced Features](https://doc.rust-lang.org/book/ch19-00-advanced-features.html)                                           | @rnic      | [link](https://github.com/rniczh/slides/blob/gh-pages/Advenced-features/advanced_features.pdf) |
+|            | [20. Final Project: Building a Multithreaded Web Server](https://doc.rust-lang.org/book/ch20-00-final-project-a-web-server.html) | @球魚      | [link](https://slides.com/lili668668/rust-20#/)                                                |
+| 2019/05/25 | RustCon Asia 2019 見聞錄 (Stories Sharing)                                                                                       | @weihanglo | [link](https://weihanglo.tw/slides/rustcon-asia-2019#1)                                        |
+|            | Understanding Lifetime                                                                                                           | @rnic      | [link](https://github.com/rniczh/slides/blob/gh-pages/Lifetimes-intro/lifetimes-intro.pdf)     |
+| 2019/06/29 | Rust Website Translation to ZH-TW                                                                                                |            | [link](https://pontoon.rust-lang.org/zh-TW/)                                                   |
+| 2019/07/20 | Preparing for COSCUP 2019                                                                                                        |            | [link](https://coscup.org/2019/en/)                                                            |
+| 2019/08/17 | COSCUP 2019                                                                                                                      |            | [link](https://coscup.org/2019/en/)                                                            |
+| 2019/09/28 | Useful Rust std skills                                                                                                           | @KK        | [link](https://www.slideshare.net/kkthegamer/rust-std)                                         |
+| 2019/10/26 | Foreign Function Interface in Rust                                                                                               | @wusyong   | [link](https://hackmd.io/@mRP87MlTRvOLHDMXBXHf0Q/ryCMwXvYH#/)                                  |
 
 ### 2018
 

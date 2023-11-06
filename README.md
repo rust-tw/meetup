@@ -19,7 +19,7 @@ We hold the meetups at the place, [摩茲工寮 Mozilla Community Space Taipei](
 - [2019](#2019)
 - [2018](#2018)
 
-### 2019
+### 2023
 |    Date    | Chapter/Topic                                |    Speaker   |                                                                                                                  Slides                                                                                                                                             |
 |:----------:|:---------------------------------------------|:------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | 2023/10/03 | Is Rust the language of AGI?                 | [Michael Yuan](https://github.com/juntao) | [link1](https://www.youtube.com/watch?v=he2hcqy5czM) [link2](https://github.com/second-state/WasmEdge-WASINN-examples) [link3](https://blog.stackademic.com/fast-and-portable-llama2-inference-on-the-heterogeneous-edge-a62508e82359) |
